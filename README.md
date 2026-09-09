@@ -68,7 +68,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
         <td align="center">
                 <a href="https://github.com/srirambio">
-                    <img src="https://avatars.githubusercontent.com/u/901953707?v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/901953707?v=4" width="150px;"
                         alt="Chandra" />
                     <br />
                     <sub>
